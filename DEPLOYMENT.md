@@ -79,6 +79,7 @@ ENCRYPTION_KEY = "your-long-random-encryption-key-at-least-48-characters"
    - `tmarks/migrations/0002_d1_console_ai_settings.sql`
    - `tmarks/migrations/0100_d1_console.sql`
    - `tmarks/migrations/0101_d1_console.sql`
+   - `tmarks/migrations/0102_newtab_sync.sql`
 4. 复制全部 SQL，粘贴到控制台，点击 **Execute** 执行
 
 ### 6. 重新部署
